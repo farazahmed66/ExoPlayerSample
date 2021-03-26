@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ExoPlayerSample</string>
+
+    <string name="track_selection_title">Select tracks</string>
+    <string name="error_generic">Playback failed</string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+
+
+    <string name="dash_video">https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-ttml.ism/.mpd</string>
+    <string name="hls_video">https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-multiple-subtitles.ism/.m3u8</string>
+    <string name="play_video">Play video</string>
+
+</resources>
